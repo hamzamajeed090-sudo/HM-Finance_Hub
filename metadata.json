@@ -1,0 +1,6 @@
+{
+  "name": "FinTrack Pro - Dual Currency Finance",
+  "description": "Dual-currency (PKR & SAR) personal finance, multi-account, and loan tracking app with analytics, budgeting, and biometric security.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
